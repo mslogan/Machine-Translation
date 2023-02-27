@@ -33,21 +33,13 @@ The below techniques were applied to clean the source data
 
 • Extra White space removal
 
-![image](https://user-images.githubusercontent.com/68213405/221495089-79ac956b-35be-433d-8d20-0d4dff27140f.png)
-
-
-
+![image](https://user-images.githubusercontent.com/68213405/221495876-f7dc106d-4eef-47e8-84fd-f7e6fd3896d0.png)
 
 
 ### MODELS
-1. LSTM w/o GloVe
-2. Bidirectional LSTM w/o GloVe
-3. Encoder-Decoder with GloVe
+1. Simple RNN
+2. LSTM w/o GloVe
+3. Bidirectional LSTM w/o GloVe
+4. Encoder-Decoder with GloVe
 
-![image](https://user-images.githubusercontent.com/68213405/221484747-79f42ca6-feb2-4c5c-9e75-c75205d8de83.png)
-
-
-### SUMMARY
-
-![image](https://user-images.githubusercontent.com/68213405/221484601-76aea1a4-40e7-4c2e-8696-be4eb6c8a32b.png)
-
+![image](https://user-images.githubusercontent.com/68213405/221496212-83dfd058-bfa1-4192-ab29-14e899c5afc1.png)
